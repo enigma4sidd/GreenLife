@@ -1,6 +1,6 @@
 # GreenLife
 
-## An app that generates a users green score according to his consumption of utilities such as Electricity, Water & Gas
+## An app that generates a users green score according to its consumption of utilities such as Electricity, Water & Gas
 
 ![alt text](gallery.jpg)
 
